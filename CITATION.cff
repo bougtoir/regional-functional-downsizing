@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this research package, please cite the associated article."
+title: "When Moving People Is Costly, Move Functions"
+type: software
+authors:
+  - family-names: Onishi
+    given-names: Tatsuki
+    orcid: "https://orcid.org/0000-0001-7261-9062"
+date-released: 2026-09-24
+license: MIT
+repository-code: "https://github.com/bougtoir/regional-functional-downsizing"
